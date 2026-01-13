@@ -1,4 +1,4 @@
-'use client'
+Sangwanangwanuse client'
 import React, { useRef, useState } from "react";
 import { motion } from "framer-motion";
 import emailjs from "@emailjs/browser";
@@ -44,9 +44,9 @@ const Contact = () => {
         process.env.TEMPLATE_ID,
         {
           from_name: form.name,
-          to_name: "Himanshu Sangwan",
+          to_name "PIRATE CODEZ",
           from_email: form.email,
-          to_email: "sangwanhimanshu8443@gmail.com",
+          to_email: "piratesupport@gmail.com",
           message: form.message,
         },
         process.env.PUBLIC_KEY
