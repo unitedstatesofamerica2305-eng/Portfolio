@@ -140,7 +140,7 @@ const technologies = [
 
 const projects = [
   {
-    name: "InkSync",
+    name: "SPACExPIRATE",
     description:
       "A real-time collaborative whiteboard web application built with NextJs, Express, and Socket.io.",
     features: [
@@ -170,11 +170,11 @@ const projects = [
       },
     ],
     image: inkSync,
-    source_code_link: "https://github.com/himanshu8443/InkSync",
-    live_link: "https://www.inksync.cloud/",
+    source_code_link: "#",
+    live_link: "https://spacexpirate.verHayasaka",
   },
   {
-    name: "Hayasaka",
+    name: "OSINT",
     description:
       "A dynamic full-stack music streaming web application with Next.js 13 and MongoDB.",
     features: [
@@ -215,8 +215,8 @@ const projects = [
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/himanshu8443/hayasaka",
-    live_link: "https://hayasaka.live/",
+    source_code_link: "#",
+    live_link: "https://osintxflex.vercel.app/",
   },
   {
     name: "Study Notion",
