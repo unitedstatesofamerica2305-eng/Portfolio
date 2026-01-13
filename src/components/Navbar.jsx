@@ -1,4 +1,4 @@
-'use client'
+imanshunshue client'
 import React from 'react'
 import Link from 'next/link'
 import { useState, useEffect } from 'react'
@@ -47,7 +47,7 @@ const Navbar = () => {
         >
           <Image src={logo} alt='logo' className='w-10 h-10 object-contain' />
           <p className='text-white text-[29px] font-bold cursor-pointer flex relative right-2 '>
-            imanshu &nbsp;
+            PIRATE &nbsp;
             <span className='sm:block hidden'> </span>
           </p>
         </Link>
